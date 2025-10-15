@@ -1,0 +1,103 @@
+$S$A$L$T
+## nothing, reverse, case... base stuff$S$A$L$T
+:$S$A$L$T
+r$S$A$L$T
+u$S$A$L$T
+T0$S$A$L$T
+$S$A$L$T
+## simple number append$S$A$L$T
+$0$S$A$L$T
+$1$S$A$L$T
+$2$S$A$L$T
+$3$S$A$L$T
+$4$S$A$L$T
+$5$S$A$L$T
+$6$S$A$L$T
+$7$S$A$L$T
+$8$S$A$L$T
+$9$S$A$L$T
+$S$A$L$T
+## special number append$S$A$L$T
+$0 $0$S$A$L$T
+$0 $1$S$A$L$T
+$0 $2$S$A$L$T
+$1 $1$S$A$L$T
+$1 $2$S$A$L$T
+$1 $3$S$A$L$T
+$2 $1$S$A$L$T
+$2 $2$S$A$L$T
+$2 $3$S$A$L$T
+$6 $9$S$A$L$T
+$7 $7$S$A$L$T
+$8 $8$S$A$L$T
+$9 $9$S$A$L$T
+$1 $2 $3$S$A$L$T
+$S$A$L$T
+## high frequency append$S$A$L$T
+$e$S$A$L$T
+$s$S$A$L$T
+$S$A$L$T
+## high frequency overwrite at end$S$A$L$T
+] $a$S$A$L$T
+] ] $s$S$A$L$T
+] ] $a$S$A$L$T
+] ] $e $r$S$A$L$T
+] ] $i $e$S$A$L$T
+] ] ] $o$S$A$L$T
+] ] ] $y$S$A$L$T
+] ] ] $1 $2 $3$S$A$L$T
+] ] ] $m $a $n$S$A$L$T
+] ] ] $d $o $g$S$A$L$T
+$S$A$L$T
+## high frequency prepend$S$A$L$T
+^1$S$A$L$T
+^e ^h ^t$S$A$L$T
+$S$A$L$T
+## high frequency overwrite at start$S$A$L$T
+o0d$S$A$L$T
+o0m o1a$S$A$L$T
+$S$A$L$T
+## leetify$S$A$L$T
+so0$S$A$L$T
+si1$S$A$L$T
+se3$S$A$L$T
+$S$A$L$T
+## simple extracts$S$A$L$T
+D2$S$A$L$T
+D2 D2$S$A$L$T
+D3$S$A$L$T
+D4$S$A$L$T
+$S$A$L$T
+## undouble word$S$A$L$T
+'5 D3$S$A$L$T
+'5 $1$S$A$L$T
+$S$A$L$T
+## removes suffixes from 'strongified' passwords in dict$S$A$L$T
+]$S$A$L$T
+] ]$S$A$L$T
+] ] ]$S$A$L$T
+] ] ] d$S$A$L$T
+] ] D1 ]$S$A$L$T
+$S$A$L$T
+## rotates$S$A$L$T
++5 ] } } } } '4$S$A$L$T
+O02 { { { { { {$S$A$L$T
+} ] ] {$S$A$L$T
+} } -0 O12$S$A$L$T
+} } }$S$A$L$T
+} } } } '4$S$A$L$T
+} } } } } '5$S$A$L$T
+} } } } } } Y4 '4 d$S$A$L$T
+$S$A$L$T
+## unknown$S$A$L$T
+*04 +0 '4$S$A$L$T
+*05 O03 d '3 p1$S$A$L$T
++0 +0 +0 +0 +0 +0 +0 +0$S$A$L$T
++0 +0 +0 O12$S$A$L$T
+Z4 '8 O42$S$A$L$T
+Z5 '6 O31 ] p1$S$A$L$T
+Z5 *75 '5 { O02$S$A$L$T
+d O28 Y4 '4 d$S$A$L$T
+f *A5 '8 O14$S$A$L$T
+p2 '7 p1 O58$S$A$L$T
+O14 d p2 '6$S$A$L$T
